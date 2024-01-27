@@ -23,4 +23,7 @@ The repository includes a navigation script (scraper.py), an HTML snapshot (smar
 and a Jupyter Notebook (Extract data from html.ipynb) demonstrating data extraction with BeautifulSoup. 
 These resources are valuable for beginners to perform EDA and ML algorithms.
 
+****
+I will upload this Data in **Kaggle** as well.
+
 
