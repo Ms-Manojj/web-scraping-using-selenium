@@ -1,6 +1,6 @@
 Gretting...
 
-I have successfully scraped laptop data from the Smartprix website using the Python Selenium library. In this repository, there are four key files:
+I have successfully scraped laptop data from the Smartprix website using the Python Selenium library. In this repository, there are some key files:
 
 **Scripting-**
 This file contains the Python script (scraper.py) responsible for navigating the Smartprix website using Selenium. 
