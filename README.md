@@ -1,4 +1,5 @@
-Gretting...
+Gretings
+
 
 I have successfully scraped laptop data from the Smartprix website using the Python Selenium library. In this repository, there are some key files:
 
