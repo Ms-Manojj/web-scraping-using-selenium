@@ -24,6 +24,7 @@ and a Jupyter Notebook (Extract data from html.ipynb) demonstrating data extract
 These resources are valuable for beginners to perform EDA and ML algorithms.
 
 ****
-I will upload this Data in **Kaggle** as well.
+I have upload this Data in **Kaggle** PFB the link:
+https://www.kaggle.com/datasets/mssnegi/laptops-datasmartprix
 
 
